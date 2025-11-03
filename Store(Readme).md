@@ -1,6 +1,6 @@
 # Store-Dashboard
 
-### Dashboard Link :(https://app.powerbi.com/links/AZxpz2yjDy?ctid=ee0c014f-76f0-4c50-ba79-351579057b96&pbi_source=linkShare)
+### Dashboard Link :https://app.powerbi.com/links/AZxpz2yjDy?ctid=ee0c014f-76f0-4c50-ba79-351579057b96&pbi_source=linkShare
 
 ## Problem Statement
 
